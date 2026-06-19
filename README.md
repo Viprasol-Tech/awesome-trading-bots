@@ -121,6 +121,7 @@ Free, MIT-licensed, working bots built and maintained by [Viprasol Tech](https:/
 - [Superalgos](https://github.com/Superalgos/Superalgos) — Visual, community-driven platform for designing and running crypto strategies.
 - [crypto-trading-bot (Haehnchen)](https://github.com/Haehnchen/crypto-trading-bot) — Node.js bot for Bitmex, Bitfinex, and Binance with strategy support.
 - [PyTrendFollow](https://github.com/chrism2671/PyTrendFollow) — Systematic trend-following for crypto and futures.
+- [VERY-Basic-Bitcoin-Coinbase-Bot](https://github.com/tg12/VERY-Basic-Bitcoin-Coinbase-Bot) — Lightweight Python bot that places small automated Bitcoin trades on Coinbase.
 
 ## Stock & multi-asset trading bots
 
@@ -132,6 +133,8 @@ Free, MIT-licensed, working bots built and maintained by [Viprasol Tech](https:/
 - [QSTrader](https://github.com/mhallsmoore/qstrader) — Modular event-driven backtesting and live-trading library for institutional-style strategies.
 - [PyAlgoTrade](https://github.com/gbeced/pyalgotrade) — Event-driven algorithmic trading library with backtesting and paper trading.
 - [eiten](https://github.com/tradytics/eiten) — Statistical and algorithmic portfolio construction (eigen, minimum-variance, genetic).
+- [FAIG (Fully Automated IG)](https://github.com/tg12/FAIG) — Fully automated trading bot for the IG Index platform (spread betting and CFDs), supporting demo and live accounts.
+- [IG Index Scalping Bot](https://github.com/tg12/IG-Index-Scalping-Scraping-Bot) — Python scalping/scraping bot for the IG Index platform.
 
 ## Forex trading bots
 
