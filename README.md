@@ -180,6 +180,7 @@ Free, MIT-licensed, working bots built and maintained by [Viprasol Tech](https:/
 - [Tardis.dev](https://github.com/tardis-dev/tardis-python) — High-resolution historical crypto market data (tick, book, trades).
 - [databento (Python)](https://github.com/databento/databento-python) — Normalised historical and live institutional market data.
 - [findatapy](https://github.com/cuemacro/findatapy) — Unified interface to many market-data sources (Bloomberg, Quandl, ALFRED).
+- [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) — Free n8n workflow, alerts on Telegram when a Solana SPL token price crosses a threshold.
 
 ## Technical analysis & indicators
 
