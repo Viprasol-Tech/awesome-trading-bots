@@ -244,6 +244,8 @@ A quick orientation for the most popular general frameworks. Always verify curre
 - [Quantitative Economics with Python (QuantEcon)](https://github.com/QuantEcon/lecture-python-programming.notebooks) — Free lectures on economic modelling and computation.
 - [Algorithmic trading basics](https://www.investopedia.com/terms/a/algorithmictrading.asp) — Introductory reading on algo trading.
 - [Freqtrade docs](https://www.freqtrade.io/en/stable/) — One of the best-written practical guides to running a bot end to end.
+- [Kraken Spot API field notes](https://github.com/Jorg-AI-JorgAI/kraken-spot-api-field-notes) — Production notes on the Kraken Spot REST API (call counter, nonces, no bracket orders, pair naming) with a runnable signed-call example.
+- [Crypto.com Exchange API field notes](https://github.com/Jorg-AI-JorgAI/crypto-com-exchange-api-field-notes) — Production notes on the Crypto.com Exchange API v1 (Exchange vs App balances, notional market buys, IP whitelist) with a signing example.
 
 ## Related awesome lists
 
