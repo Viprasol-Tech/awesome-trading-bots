@@ -165,6 +165,7 @@ Free, MIT-licensed, working bots built and maintained by [Viprasol Tech](https:/
 - [Zipline (reloaded)](https://github.com/stefan-jansen/zipline-reloaded) — Maintained fork of the classic Pythonic algorithmic-trading library.
 - [bt](https://github.com/pmorissette/bt) — Flexible backtesting for portfolio-based and allocation strategies.
 - [fastquant](https://github.com/enzoampil/fastquant) — Backtest strategies in a few lines of code, wrapping Backtrader.
+- [Superior Skills](https://github.com/Superior-Trade/superior-skills) — Agent skills for authoring, backtesting, and deploying strategies on Hyperliquid, Lighter, and Polymarket.
 
 ## Execution engines & order routing
 
