@@ -210,6 +210,7 @@ Free, MIT-licensed, working bots built and maintained by [Viprasol Tech](https:/
 
 - [CCXT](https://github.com/ccxt/ccxt) — Unified crypto exchange trading API for 100+ exchanges (Python/JS/PHP/C#).
 - [python-binance](https://github.com/sammchardy/python-binance) — Popular unofficial Binance REST and WebSocket client.
+- - [Siebly.io SDKs](https://github.com/sieblyio) - Open-source MIT JavaScript/TypeScript SDKs for Binance, Bybit, OKX, Bitget, Gate, KuCoin, Kraken, Coinbase and Hyperliquid REST APIs, WebSockets and WebSocket APIs.
 - [alpaca-py](https://github.com/alpacahq/alpaca-py) — Official Python SDK for the commission-free Alpaca stock/crypto API.
 - [ib_insync](https://github.com/erdewit/ib_insync) — Pythonic, async-friendly client for Interactive Brokers.
 - [tda-api](https://github.com/alexgolec/tda-api) — Unofficial client for the TD Ameritrade / Schwab trading API.
@@ -247,6 +248,7 @@ A quick orientation for the most popular general frameworks. Always verify curre
 - [Freqtrade docs](https://www.freqtrade.io/en/stable/) — One of the best-written practical guides to running a bot end to end.
 - [Kraken Spot API field notes](https://github.com/Jorg-AI-JorgAI/kraken-spot-api-field-notes) — Production notes on the Kraken Spot REST API (call counter, nonces, no bracket orders, pair naming) with a runnable signed-call example.
 - [Crypto.com Exchange API field notes](https://github.com/Jorg-AI-JorgAI/crypto-com-exchange-api-field-notes) — Production notes on the Crypto.com Exchange API v1 (Exchange vs App balances, notional market buys, IP whitelist) with a signing example.
+- - [Crypto exchange API key security best practices](https://blog.siebly.io/crypto-exchange-api-key-security-best-practices/) - Practical guide to scoping bot API keys with minimum permissions, no withdrawal access and strict IP whitelists.
 
 ## Related awesome lists
 
